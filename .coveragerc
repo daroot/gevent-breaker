@@ -1,0 +1,13 @@
+[run]
+branch = True
+concurrency = gevent
+source = gevent_breaker
+omit =
+    */test/*
+
+[report]
+exclude_lines =
+    ✘${TOX_ENVNAME}
+    pragma: no ?cover
+fail_under = 75
+precision = 2
