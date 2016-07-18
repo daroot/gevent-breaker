@@ -24,7 +24,7 @@ def readme():
 
 setup(
     name='gevent-breaker',
-    version='0.0.0',
+    version='1.0.0',
     description='Circuitbreaker pattern for gevent apps',
     long_description=readme(),
     url='http://github.com/daroot/gevent-breaker',

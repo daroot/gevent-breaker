@@ -1,7 +1,7 @@
 gevent-breker
 =============
 
-[![Build Status](https://travis-ci.org/daroot/gevent-breaker.svg?branch=0.0.0)](https://travis-ci.org/daroot/gevent-breaker)
+[![Build Status](https://travis-ci.org/daroot/gevent-breaker.svg?branch=1.0.0)](https://travis-ci.org/daroot/gevent-breaker)
 
 Circuit Breaker pattern for gevent apps.
 
